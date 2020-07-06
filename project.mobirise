@@ -64,6 +64,9 @@
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
               "color": "#000000"
+            },
+            "H2": {
+              "color": "#000000"
             }
           },
           "_name": "content4",
