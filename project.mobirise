@@ -351,7 +351,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<i><b>Suplementos da Mais alto qualidade direto da Fábrica, Roupas e Acessórios Fitness para Melhor desempenho nas suas Atividades Físicas, Moda Masculina e Feminina.</b></i>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>ACESSAR LOJA</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://lifestylemonster.midhaz.com/?ordenacao=nome-az\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>ACESSAR LOJA</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dietade17diasimg.jpg",
