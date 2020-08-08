@@ -45,7 +45,16 @@
     "uniqCompNum": 31,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "Lifestyle Monster, lifestyle, lifestyle monster",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://www.lifestylemonster.com.br",
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -316,7 +325,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/trainer-480x320.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -355,7 +364,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dietade17diasimg.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
