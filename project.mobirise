@@ -47,7 +47,7 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n<a href=\"https://api.whatsapp.com/send?l=pt&amp;phone=5516992804827\"><img src=\"https://i.imgur.com/ryESuZ5.png\" style=\"height:80px; position:fixed; bottom: 25px; right: 25px; z-index:99999;\" data-selector=\"img\"></a>\n\n\n",
     "google-analytics": "Lifestyle Monster, lifestyle, lifestyle monster, lifestylemonster.com, lifestylemonster.com.br, lifestyle monster, lifestylemonster.com",
     "sitemapSwitcher": true,
     "siteUrl": "https://lifestylemonster.com.br",
