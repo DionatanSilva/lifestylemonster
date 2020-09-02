@@ -62,8 +62,8 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "",
-      "textButton": "Agree<a href=\"https://api.whatsapp.com/send?l=pt&phone=5516992804827\"><img src=\"https://i.imgur.com/ryESuZ5.png\" style=\"height:80px; position:fixed; bottom: 25px; right: 25px; z-index:99999;\" data-selector=\"img\"></a>\n\n"
+      "text": "Precisa de Ajuda? ",
+      "textButton": "Agree<https://api.whatsapp.com/send?l=pt&phone=5516992804827\n\na href=\"https://api.whatsapp.com/send?l=pt&phone=5516992804827\"><img src=\"https://i.imgur.com/ryESuZ5.png\" style=\"height:80px; position:fixed; bottom: 25px; right: 25px; z-index:99999;\" data-selector=\"img\"></a>\n\n"
     },
     "gdpr": {
       "colorText": "#a7a7a7",
