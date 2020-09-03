@@ -47,7 +47,7 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n<meta name=\"google-site-verification\" content=\"d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0\" />\n\n",
     "google-analytics": "",
     "sitemapSwitcher": false,
     "siteUrl": false,
