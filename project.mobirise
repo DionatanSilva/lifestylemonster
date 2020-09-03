@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lifestylemonster.com",
-    "currentPage": "lmeta name=google-site-verification content=d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0 .html",
+    "currentPage": "meta name=google-site-verification content=d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0 .html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -73,11 +73,11 @@
     }
   },
   "pages": {
-    "lmeta name=google-site-verification content=d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0 .html": {
+    "meta name=google-site-verification content=d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0 .html": {
       "settings": {
         "main": true,
         "title": "Lifestyle Monster",
-        "meta_descr": "",
+        "meta_descr": "Venha ter um estilo de vida mais saudável. Lifestyle Monster há mais de 5 anos Transformando vidas",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
