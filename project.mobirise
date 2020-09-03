@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lifestylemonster.com",
-    "currentPage": "index.html",
+    "currentPage": "lmeta name=google-site-verification content=d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0 .html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -73,10 +73,10 @@
     }
   },
   "pages": {
-    "index.html": {
+    "lmeta name=google-site-verification content=d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0 .html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Lifestyle Monster",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
