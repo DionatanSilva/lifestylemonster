@@ -51,7 +51,7 @@
     "google-analytics": "",
     "sitemapSwitcher": true,
     "siteUrl": "https://lifestymonster.com.br",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "favicon": false,
     "cookiesAlert": {
       "customDialogSelector": true,
