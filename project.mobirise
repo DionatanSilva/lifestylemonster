@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "lifestylemonster.com",
+    "name": "lifestylemonster.com.br",
     "currentPage": "meta name=google-site-verification content=d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0 .html",
     "theme": {
       "name": "mobirise4",
@@ -47,7 +47,7 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n<meta name=\"google-site-verification\" content=\"d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0\" />\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n<meta name=\"google-site-verification\" content=\"d0phznLgkfTkWoTa-aUDgIRmU01JmvUS1_c40qnk8o0\" />\n\n# These are supported funding model platforms\n\ngithub: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]\npatreon: # Replace with a single Patreon username\nopen_collective: # Replace with a single Open Collective username\nko_fi: # Replace with a single Ko-fi username\ntidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel\ncommunity_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry\nliberapay: # Replace with a single Liberapay username\nissuehunt: # Replace with a single IssueHunt username\notechie: # Replace with a single Otechie username\ncustom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']\n\n\n\n",
     "google-analytics": "",
     "sitemapSwitcher": false,
     "siteUrl": false,
