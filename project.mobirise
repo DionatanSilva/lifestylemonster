@@ -345,12 +345,12 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/lojatop-336x380.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=5FA_xAPgBkY",
+                "videoUrl": "https://youtu.be/6gKy1latmh8",
                 "customStyle1": "display-5",
                 "customStyle2": "display-4",
                 "customStyle3": "display-4",
@@ -364,7 +364,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dietade17diasimg.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
